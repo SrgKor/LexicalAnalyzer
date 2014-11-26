@@ -1,0 +1,15 @@
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.MainForm.resources
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.Properties.Resources.resources
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\bin\Release\LexicalAnalyzer.exe
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\bin\Release\LexicalAnalyzer.pdb
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.exe
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.pdb
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\bin\Release\LexicalAnalyzer.exe.manifest
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\bin\Release\LexicalAnalyzer.application
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.exe.manifest
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.application
+C:\Users\Сергей\Documents\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.exe
+C:\Users\Сергей\Documents\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\x86\Release\LexicalAnalyzer.pdb
